@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:8000"
+const BASE_URL = "https://prepai-backend-production-ad1b.up.railway.app"
 
 async function handleResponse(res) {
   const text = await res.text()
