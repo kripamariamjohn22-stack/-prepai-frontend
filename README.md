@@ -3,10 +3,6 @@
 > A full-stack AI-powered interview preparation platform. Paste any job description and get a personalized knowledge check, study roadmap, mock interview, and AI-scored report card.
 
 **🔗 Live App:** [prepai-frontend-eight.vercel.app](https://prepai-frontend-eight.vercel.app)
-**💻 Frontend Code:** [github.com/kripamariamjohn22-stack/-prepai-frontend](https://github.com/kripamariamjohn22-stack/-prepai-frontend)
-**⚙️ Backend Code:** [github.com/kripamariamjohn22-stack/-prepai-backend](https://github.com/kripamariamjohn22-stack/-prepai-backend)
-
----
 
 ## 📖 What It Does
 
