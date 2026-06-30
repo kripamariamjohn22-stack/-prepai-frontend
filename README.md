@@ -129,17 +129,6 @@ npm run dev
 ## 🎯 Why I Built This
 
 I wanted to prep for internship interviews at companies like Google and Microsoft, but found existing tools either too generic or not personalized to the actual role. So I built one — and used it myself to prepare.
-
----
-
-## 📌 Future Improvements
-
-- [ ] Add voice input for interview answers
-- [ ] Export report card as PDF
-- [ ] Track progress over multiple practice sessions
-- [ ] Add company-specific question banks (Google, Microsoft, Amazon)
-- [ ] Resume upload + parsing for even more personalization
-
 ---
 
 *Built by Kripa Mariam John · 2026*
