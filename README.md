@@ -120,11 +120,4 @@ npm run dev
 - Handling API keys and environment variables securely
 - Git/GitHub workflow including resolving push protection and secret scanning issues
 
----
-
-## 🎯 Why I Built This
-
-I wanted to prep for internship interviews at companies like Google and Microsoft, but found existing tools either too generic or not personalized to the actual role. So I built one — and used it myself to prepare.
----
-
 *Built by Kripa Mariam John · 2026*
